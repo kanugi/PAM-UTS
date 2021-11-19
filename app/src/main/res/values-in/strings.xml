@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direktori Film</string>
+    <string name="txt_appjudul">Aplikasi Film</string>
+    <string name="about">Tentang</string>
+    <string name="btn_directory">Direktori</string>
+    <string name="btn_about">Tentang</string>
+    <string name="nama">Nama : Kanikayudha Tantyo Nugroho</string>
+    <string name="nim">NIM : 19.11.3013</string>
+
+</resources>
